@@ -9,7 +9,8 @@ The dataset I am working with includes a wide range of information crucial for p
 3.	Objective
 The primary goal of my project is to develop a robust Machine Learning model that can accurately predict the selling price of cars. This prediction is based on the diverse set of characteristics and features available in the dataset. I aim to provide valuable insights into the market value of cars, assisting buyers and sellers in their decision-making processes.
 
-4.	Methodology 
+4.	Methodology
+   
 i.	Data Preprocessing
 a.	Handling Missing Values: I employed techniques such as imputation to address missing values in the dataset, ensuring data completeness.
 b.	Feature Engineering: I utilized techniques like rounding for the seat column and mapping car names to brands to enhance the model's predictive power.
